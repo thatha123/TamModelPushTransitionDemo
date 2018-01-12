@@ -1,0 +1,2 @@
+# TamModelPushTransitionDemo
+model与push跳转转场动画，适合新手入手
